@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Athif-gitt/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Athif-gitt/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Athif-gitt/LeetCode/tree/master/0742-to-lower-case) |
 | [3379-score-of-a-string](https://github.com/Athif-gitt/LeetCode/tree/master/3379-score-of-a-string) |
 ## Math
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Athif-gitt/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Athif-gitt/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Athif-gitt/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Athif-gitt/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
