@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Athif-gitt/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Athif-gitt/LeetCode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Athif-gitt/LeetCode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Athif-gitt/LeetCode/tree/master/0742-to-lower-case) |
 | [3379-score-of-a-string](https://github.com/Athif-gitt/LeetCode/tree/master/3379-score-of-a-string) |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Athif-gitt/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Athif-gitt/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Athif-gitt/LeetCode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
