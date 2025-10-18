@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Athif-gitt/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Athif-gitt/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Athif-gitt/LeetCode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Athif-gitt/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Athif-gitt/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Athif-gitt/LeetCode/tree/master/0202-happy-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
