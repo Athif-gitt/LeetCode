@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Athif-gitt/LeetCode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2048-build-array-from-permutation](https://github.com/Athif-gitt/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Athif-gitt/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Athif-gitt/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/Athif-gitt/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Athif-gitt/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
