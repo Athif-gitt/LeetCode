@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Athif-gitt/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Athif-gitt/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Athif-gitt/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Array
 |  |
 | ------- |
