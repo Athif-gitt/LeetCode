@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Athif-gitt/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Athif-gitt/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Athif-gitt/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Athif-gitt/LeetCode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Athif-gitt/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Athif-gitt/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Athif-gitt/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Athif-gitt/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
