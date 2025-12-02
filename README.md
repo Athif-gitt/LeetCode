@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Athif-gitt/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Athif-gitt/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Athif-gitt/LeetCode/tree/master/2383-add-two-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Athif-gitt/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Athif-gitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Athif-gitt/LeetCode/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Athif-gitt/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Athif-gitt/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Athif-gitt/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Athif-gitt/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Athif-gitt/LeetCode/tree/master/0389-find-the-difference) |
+| [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [4008-restore-finishing-order](https://github.com/Athif-gitt/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Sorting
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Athif-gitt/LeetCode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
