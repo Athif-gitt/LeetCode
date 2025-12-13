@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/Athif-gitt/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Athif-gitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/Athif-gitt/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Athif-gitt/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3701-compute-alternating-sum](https://github.com/Athif-gitt/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [4008-restore-finishing-order](https://github.com/Athif-gitt/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
