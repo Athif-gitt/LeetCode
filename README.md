@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Athif-gitt/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Athif-gitt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/Athif-gitt/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Athif-gitt/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Athif-gitt/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Athif-gitt/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Athif-gitt/LeetCode/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Athif-gitt/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
