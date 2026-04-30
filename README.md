@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Athif-gitt/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Athif-gitt/LeetCode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/Athif-gitt/LeetCode/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Athif-gitt/LeetCode/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Athif-gitt/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Athif-gitt/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Athif-gitt/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Athif-gitt/LeetCode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/Athif-gitt/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
@@ -158,10 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Athif-gitt/LeetCode/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Athif-gitt/LeetCode/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
