@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Athif-gitt/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Athif-gitt/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Athif-gitt/LeetCode/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Athif-gitt/LeetCode/tree/master/2383-add-two-integers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Athif-gitt/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Athif-gitt/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Athif-gitt/LeetCode/tree/master/0283-move-zeroes) |
+| [0384-shuffle-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0561-array-partition](https://github.com/Athif-gitt/LeetCode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Athif-gitt/LeetCode/tree/master/0565-array-nesting) |
 | [0724-find-pivot-index](https://github.com/Athif-gitt/LeetCode/tree/master/0724-find-pivot-index) |
@@ -186,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Athif-gitt/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
