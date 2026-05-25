@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Athif-gitt/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Athif-gitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Athif-gitt/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Athif-gitt/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Athif-gitt/LeetCode/tree/master/3516-find-closest-person) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Athif-gitt/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Athif-gitt/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Athif-gitt/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Athif-gitt/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/Athif-gitt/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [4008-restore-finishing-order](https://github.com/Athif-gitt/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Hash Table
