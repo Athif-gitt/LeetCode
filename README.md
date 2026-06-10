@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Athif-gitt/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/Athif-gitt/LeetCode/tree/master/0742-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Athif-gitt/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Athif-gitt/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Athif-gitt/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Athif-gitt/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3194-find-words-containing-character](https://github.com/Athif-gitt/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Athif-gitt/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Athif-gitt/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Athif-gitt/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Athif-gitt/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/Athif-gitt/LeetCode/tree/master/2048-build-array-from-permutation) |
