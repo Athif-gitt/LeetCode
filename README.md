@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Athif-gitt/LeetCode/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/Athif-gitt/LeetCode/tree/master/0896-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Athif-gitt/LeetCode/tree/master/1122-relative-sort-array) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Athif-gitt/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Athif-gitt/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Athif-gitt/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Athif-gitt/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Athif-gitt/LeetCode/tree/master/0389-find-the-difference) |
+| [1122-relative-sort-array](https://github.com/Athif-gitt/LeetCode/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/Athif-gitt/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [4008-restore-finishing-order](https://github.com/Athif-gitt/LeetCode/tree/master/4008-restore-finishing-order) |
 ## Sorting
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Athif-gitt/LeetCode/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Athif-gitt/LeetCode/tree/master/0561-array-partition) |
 | [1019-squares-of-a-sorted-array](https://github.com/Athif-gitt/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/Athif-gitt/LeetCode/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Athif-gitt/LeetCode/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/Athif-gitt/LeetCode/tree/master/1122-relative-sort-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Athif-gitt/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Matrix
 |  |
