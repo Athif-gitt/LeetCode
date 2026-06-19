@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Athif-gitt/LeetCode/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Athif-gitt/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Athif-gitt/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Athif-gitt/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Athif-gitt/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Athif-gitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Athif-gitt/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Athif-gitt/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Athif-gitt/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Athif-gitt/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Athif-gitt/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Athif-gitt/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
